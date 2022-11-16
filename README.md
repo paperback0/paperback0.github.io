@@ -1,5 +1,4 @@
 # paperback0.github.io
-<!doctype html>
 <html>
 	<head>Paper Back Info</head>
 
@@ -12,6 +11,7 @@
 		<br>this is <em>italic</em>
 
 		<br><a href=".youtube.com/channel/UCUU-kR85DfO1YQcH0pxMmhQ">My Youtube</a>
+		<br><a href="https://www.instagram.com/paperbackspinnerrack/">My Instagram</a>
 
 		<ul>
 			<li> item 1</li>
