@@ -1,5 +1,5 @@
 # paperback0.github.io
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Text Encoder/Decoder</title>
